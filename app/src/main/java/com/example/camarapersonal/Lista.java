@@ -21,7 +21,6 @@ public class Lista extends AppCompatActivity {
     private ImageView imagen;
     private String[] archivos;
     private ArrayAdapter<String> adaptador ;
-    private ArrayList<Foto> fotos;
 
 
     @Override
